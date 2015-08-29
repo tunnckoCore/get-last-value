@@ -1,0 +1,37 @@
+{
+  "name": "get-last-value",
+  "version": "0.0.0",
+  "description": "Lookup an object recursively for given property and get it's value.",
+  "repository": "tunnckoCore/get-last-value",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "is-real-object": "^1.0.1",
+    "object-visit": "^0.1.0"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "deep",
+    "get",
+    "last",
+    "look",
+    "lookup",
+    "nested",
+    "obj",
+    "object",
+    "prop",
+    "property",
+    "recursive",
+    "value",
+    "visit"
+  ]
+}
