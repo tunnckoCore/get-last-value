@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "is-real-object": "^1.0.1",
-    "object-visit": "^0.1.0"
+    "object-visit": "^0.2.1"
   },
   "devDependencies": {
     "assertit": "^0.1.0"
